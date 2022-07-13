@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Natali
 ####         I am QA Engineer from Ukraine
 
-I made this project as a portfolio to show my skills and abilities in testing, namely writing test cases and bug reports, checklists, writing queries in SQL, and also showing the ability to work in Postman
+Highly motivated QA Engineer with solid knowledge and experience in Web and Mobile testing. Have mentoring experience, closely work with the dev support team, and lead the adoption process for the software product. Familiar with Scrum, great team player, and reliable employee.Enjoy working in a fast-growing dynamic environment!
 
 Skills: Jira/ Trello/ DevTools/ TestRail/ Git/Postman/ API testing/ SQL
 
